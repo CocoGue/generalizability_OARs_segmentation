@@ -20,6 +20,7 @@ For reproducibility of our results on these two datasets, the new annotations ma
 ### Citation
 
 If you find this repo useful or if you used our models or segmentations,  please cite this work:
+
 Guérendel, C., Petrychenko, L., Chupetlovska, K. et al. Generalizability, robustness, and correction bias of segmentations of thoracic organs at risk in CT images. Eur Radiol (2024). https://doi.org/10.1007/s00330-024-11321-2
 
 ```bibtex
